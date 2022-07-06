@@ -10,3 +10,6 @@ windows＿
 chrome最新バージョン
 
 libry.pyはソースコードです。雑なコードですが、カスタムしてお楽しみください。
+
+使用した仮想環境はこちらから
+https://drive.google.com/drive/folders/1XTFFh_UttObAOnq6at2A4iyRdJ0QLmeM?usp=sharing
