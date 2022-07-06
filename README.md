@@ -11,5 +11,4 @@ chrome最新バージョン
 
 libry.pyはソースコードです。雑なコードですが、カスタムしてお楽しみください。
 
-作成した仮想環境はこちらから
-https://drive.google.com/drive/folders/1XTFFh_UttObAOnq6at2A4iyRdJ0QLmeM?usp=sharing
+使用した使用環境はリクエストに応じて配布します。
